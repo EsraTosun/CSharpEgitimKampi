@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{32CB0DA6-5855-4840-BB2C-B8B0D2AC9A87}</ProjectGuid>
+    <ProjectGuid>{958DC3FA-C593-4E3C-A143-0FEF7A7944FE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_07_ForeachLoop</RootNamespace>
-    <AssemblyName>07_ForeachLoop</AssemblyName>
+    <RootNamespace>_10_DatabaseCrud</RootNamespace>
+    <AssemblyName>10_DatabaseCrud</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

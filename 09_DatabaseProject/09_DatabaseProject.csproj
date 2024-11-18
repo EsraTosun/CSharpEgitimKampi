@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{32CB0DA6-5855-4840-BB2C-B8B0D2AC9A87}</ProjectGuid>
+    <ProjectGuid>{721E7651-55FD-4965-8358-1FF1A08031B4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_07_ForeachLoop</RootNamespace>
-    <AssemblyName>07_ForeachLoop</AssemblyName>
+    <RootNamespace>_09_DatabaseProject</RootNamespace>
+    <AssemblyName>09_DatabaseProject</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
